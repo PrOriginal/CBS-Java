@@ -1,4 +1,4 @@
-package course3.essential.topic01.Book;
+package course3.essential.topic01.book;
 
 public class Author {
     private String authorName;

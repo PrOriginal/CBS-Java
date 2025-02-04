@@ -1,6 +1,6 @@
 package course3.essential.topic02;
 
-public class Car {
+class Car {
     public int year;
     public String color;
 
